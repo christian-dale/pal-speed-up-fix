@@ -26,6 +26,8 @@ This script aims to fix that issue.
 
 ## How to fix in-browser (example)
 
-Using a standard HTML `<video>` element in JavaScript, you can **restore the correct speed and pitch**.
+If the video is playing using a `<video>` element, you can **restore the correct speed and pitch**.
+
+Simply paste the script into the browser console, or create a bookmarklet.
 
 Please refer to "pal-speed-up-fix.js" for the code.
